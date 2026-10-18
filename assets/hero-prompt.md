@@ -1,5 +1,5 @@
-# README cover generation
+# README 横幅生成说明
 
-Generated with the built-in imagegen tool on 2026-10-18.
+为GitHub开源Codex Skill project-report-ppt生成一张精致的2:1横幅。奶油白背景，深藏青#12354A主色，淡青#D9EEF0与柔珊瑚#F58578点缀，中文准确优雅，现代编辑式排版。只谈通用项目汇报，不含任何地理、地图、空间、价格、地价、评估、山脉或真实项目。左上小字“project-report-ppt”，主标题“项目汇报，先讲清逻辑”，副标题“把材料组织成听众能理解的完整故事”。下方六个由纤细连续箭头连接的简洁阶段模块，依次“问题与目标”“完整方案”“改动与依据”“整体证据”“典型案例”“总结闭环”，图标分别为问号、流程图、对比文档、柱图、两张相同工单卡、勾选清单。右上放纸张与演示屏抽象组合，轻微柔和阴影，留白充足，避免3D炫光，没有任何具体客户、项目、真实数字或照片。底部小字“用于项目汇报的内容规划与逻辑审查”。完整中文海报成品，无水印。
 
-Prompt: Create a premium editorial GitHub README hero for project-report-ppt, wide 2:1, ivory background, navy typography, restrained teal and coral. Main title: 项目汇报，先讲清逻辑. Subtitle: 让听众顺着问题理解方案，再用证据建立信心. Show six legible stations with uninterrupted arrows: 问题与目标 → 总体方案 → 改动与原理 → 整体证据 → 典型案例 → 总结闭环. Use refined line icons, generous whitespace, subtle contour texture, no invented statistics or logos.
+配图为通用流程示意，不使用任何真实客户项目素材。
