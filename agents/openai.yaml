@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目汇报逻辑与PPT编排"
+  short_description: "按甲方理解顺序组织目标、方案、原理、全局证据与典型案例，控制技术深度与版式节奏"
+  default_prompt: "请用 $project-report-ppt 按项目目标、总体方案、方法解释、整体证据、典型案例和总结闭环，规划或审查这份项目汇报PPT。"
